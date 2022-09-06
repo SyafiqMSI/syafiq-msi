@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @SyafiqMSI
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning C
-- 📫 How to reach me muhammadsyafiqibra@gmail.com
+- Hi, I’m @SyafiqMSI
+- I’m currently learning C
+- How to reach me muhammadsyafiqibra@gmail.com
 
 <!---
 SyafiqMSI/SyafiqMSI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
