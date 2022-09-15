@@ -1,5 +1,5 @@
 - Hi, I’m @SyafiqMSI
-- I’m currently learning C
+- I’m currently learning C C++ HTML JS
 - How to reach me muhammadsyafiqibra@gmail.com
 
 <!---
