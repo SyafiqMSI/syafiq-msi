@@ -1,4 +1,3 @@
 - Hi, I’m @SyafiqMSI
-- I’m currently learning C, C++, HTML, JS, CSS, Laravel
 - How to reach me muhammadsyafiqibra@gmail.com
--  We Don't Trust You
+ #### We Don't Trust You
